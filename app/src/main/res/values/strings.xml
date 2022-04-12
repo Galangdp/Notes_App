@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="content_image_no_notes">image show up if no notes found</string>
+    <string name="content_fab_add_notes">Fab Add Notes</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_priority">Priority</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_sort">Sort</string>
+    <string name="txt_priority_high">Priority High</string>
+    <string name="txt_priority_low">Priority Low</string>
+    <string name="txt_delete_all">Delete All</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_no_notes">No Notes</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_detail">Detail</string>
+    <string name="txt_go_to_update_fragment">Go To Update Fragment</string>
+    <string name="txt_sort_by">Sort By</string>
+</resources>
